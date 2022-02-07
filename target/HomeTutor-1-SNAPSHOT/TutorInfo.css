@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+h1{
+	position:relative;
+	font-size:300%;
+	font-family:Algerian;
+	text-align:center;
+	color:#cc0000;
+	font-weight:italic;
+}
+table{
+	color:black;
+	position:relative;
+	font-size:120%;
+	border:2px solid#cc0000;
+	text-align:center;
+}
